@@ -1,0 +1,28 @@
+Conteúdo do curso:
+Módulo 1:
+- Primeiros passos HTML+CSS: Conceitos básicos, preparação do ambiente, semântica da html5, textos, títulos, ligações, multimídia e estilos.
+
+Módulo 2:
+- Deixando as coisas mais bonitas: Fundamentos do design, pscicologia das cores, tipografia, elementos CSS, modelo de caixas, wireframe e responsividade.
+
+Módulo 3:
+- Colocando um protótipo no ar: Versionamento de software, hospedagem de sites estáticos e tabelas.
+
+Módulo 4:
+- Aprofundando conhecimentos: Quadros em linha, formulários, media queries e mobile first.
+
+Módulo 5:
+- Novas tecnologias: Flexbox, Grid Layout e projeto Final.
+
+Aprendizado é foco!
+Quando exercitamos, funciona!
+Caderno.
+Assista os vídeos
+Material de apoio, use! github.com/gustavoguanabara gustavoguanabara.github.io
+
+Atenção!
+Não assista este curso como se fosse uma série. Não existe maratonar curso!
+Fazer as práticas. E praticar não é copiar o código.
+Não adianta ter pressa!
+Estabelecer rotinas.
+Este é o acordo!
